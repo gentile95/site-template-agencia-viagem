@@ -1,11 +1,11 @@
 import React from 'react'
-import './Hero.css'
+import './HeroImg.css'
 
-const Hero = (props) => {
+const HeroImg = (props) => {
   return (
     <div className="container-hero">
-      <section className="container-video">
-        <video src={props.videoHero} autoPlay loop muted className={props.className}/>
+      <section className="container-img">
+        <img src={props.imgHero} alt={props.imgAlt} className={props.className}/>
       </section>
       <section className="hero-text">
         <h1 className='elemento-texto'>{props.title}</h1>
@@ -15,4 +15,4 @@ const Hero = (props) => {
   )
 }
 
-export default Hero
+export default HeroImg
