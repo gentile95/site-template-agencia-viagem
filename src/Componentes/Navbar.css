@@ -9,7 +9,7 @@
   justify-content: center;
   width: var(--largura);
   gap: calc(var(--largura) * 0.3);
-  position: absolute;
+  position: fixed;
   left: 50%;
   transform: translateX(-50%);
   border-radius: 0 0 2rem 2rem;
@@ -93,6 +93,23 @@
     display: block;
     width: 100%;
     text-shadow: 0 0 1.5rem;
+  }
+
+}
+
+
+@media screen and (max-width:650px) {
+  
+  .navbar-links.active {
+    font-size: 80%;
+  }
+
+}
+
+@media screen and (max-width:530px) {
+
+  .navbar-links.active {
+    font-size: 60%;
   }
 
 }
