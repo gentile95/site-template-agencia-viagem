@@ -1,0 +1,29 @@
+.infos {
+  background-color: rgb(212, 231, 248);
+  box-shadow: 0 2rem 2rem 1rem rgb(212, 231, 248), 0 -2rem 2rem 1rem rgb(212, 231, 248);
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: space-evenly;
+  margin-bottom: 5rem;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+.info-1 {
+  width: 90vw;
+  margin: auto;
+}
+
+.info-2 {
+  width: 90vw;
+  margin: auto;
+}
+
+.info-3 {
+  width: 90vw;
+  margin: auto;
+}

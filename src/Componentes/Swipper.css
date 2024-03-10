@@ -1,0 +1,10 @@
+.slide-item {
+  width: 50%;
+  height: 350px;
+  object-fit: cover;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
