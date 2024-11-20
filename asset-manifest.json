@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/site-template-agencia-viagem/static/css/main.c1bd3f3c.css",
-    "main.js": "/site-template-agencia-viagem/static/js/main.232cba01.js",
+    "main.css": "/site-template-agencia-viagem/static/css/main.f6a1975a.css",
+    "main.js": "/site-template-agencia-viagem/static/js/main.0a55b5ea.js",
     "static/js/453.62aacaa2.chunk.js": "/site-template-agencia-viagem/static/js/453.62aacaa2.chunk.js",
     "static/media/videoHero.mp4": "/site-template-agencia-viagem/static/media/videoHero.ad88efbb4b9176336ac2.mp4",
     "static/media/asset-servicos.jpg": "/site-template-agencia-viagem/static/media/asset-servicos.811d856896fb04c8fd37.jpg",
@@ -19,12 +19,12 @@
     "static/media/asset-home-destination3-2.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination3-2.3bae338675104b2ca0df.jpg",
     "static/media/asset-contact.svg": "/site-template-agencia-viagem/static/media/asset-contact.eb650f9f2655f79764587dfd87985d08.svg",
     "index.html": "/site-template-agencia-viagem/index.html",
-    "main.c1bd3f3c.css.map": "/site-template-agencia-viagem/static/css/main.c1bd3f3c.css.map",
-    "main.232cba01.js.map": "/site-template-agencia-viagem/static/js/main.232cba01.js.map",
+    "main.f6a1975a.css.map": "/site-template-agencia-viagem/static/css/main.f6a1975a.css.map",
+    "main.0a55b5ea.js.map": "/site-template-agencia-viagem/static/js/main.0a55b5ea.js.map",
     "453.62aacaa2.chunk.js.map": "/site-template-agencia-viagem/static/js/453.62aacaa2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1bd3f3c.css",
-    "static/js/main.232cba01.js"
+    "static/css/main.f6a1975a.css",
+    "static/js/main.0a55b5ea.js"
   ]
 }
