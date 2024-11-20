@@ -8,7 +8,7 @@ const Destinos = (props) => {
         <article className="destino" style={props.styleDestino}>
           <div className="destino-texto">
             <h1>{props.titulo}</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur sequi hic beatae eos officiis aliquid inventore expedita quisquam, quam explicabo earum saepe sunt deleniti ducimus dolor quae aspernatur nihil cumque. Ad illum architecto perspiciatis quis cupiditate deleniti veritatis assumenda ipsum doloribus, exercitationem vero atque quibusdam quo fugiat rerum quasi dolores? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error itaque amet ducimus deserunt ratione, reprehenderit dicta maxime veniam quo fugit!</p>
+            <p>{props.texto}</p>
           </div>
           <div className={props.imgClass}>
             <div className="destino-img1">

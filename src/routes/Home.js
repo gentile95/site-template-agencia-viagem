@@ -49,7 +49,8 @@ const Home = () => {
       <Destinos
         styleCor = {styleBlue}
         styleDestino = {destino}
-        titulo = 'Primeiro Destino'
+        titulo = 'Descubra o Paraíso com a Vem Cá Viagens!'
+        texto = 'Deixe-se encantar por destinos dos sonhos: praias de areias brancas, águas cristalinas e um cenário de tirar o fôlego. Explore o Caribe, com seu charme tropical, ou refúgios em ilhas paradisíacas onde a natureza se revela em sua forma mais pura. Planeje sua viagem agora e viva momentos inesquecíveis no paraíso! 🌺✈️'
         assetDestination1 = {assetDestination1}
         assetDestination2 = {assetDestination2}
         alt1 = "Imagem de um barco durante o amanhecer, com céu azul, rosa e roxo"
@@ -59,7 +60,8 @@ const Home = () => {
       <Destinos
         styleCor = {stylePurple}
         styleDestino = {destinoInvertido}
-        titulo = 'Segundo Destino'
+        titulo = 'Curta a cultura de uma cidade cosmopolita'
+        texto = 'Se o seu estilo é o agito de uma cidade cosmopolita, mergulhe na energia vibrante de metrópoles como Nova York, Tóquio ou Dubai. Descubra culturas fascinantes, gastronomia internacional e uma vida noturna que nunca para. Não importa o seu ritmo, a Vem Cá Viagens tem o destino perfeito para você'
         assetDestination1 = {assetDestination2_1}
         assetDestination2 = {assetDestination2_2}
         alt1 = "Imagem de um rio em uma cidade europeia ao pôr-do-sol"
@@ -69,7 +71,8 @@ const Home = () => {
       <Destinos
         styleCor = {styleBlue}
         styleDestino = {destino}
-        titulo = 'Terceiro Destino'
+        titulo = 'Culturas Milenares Esperam por Você'
+        texto = 'Viaje no tempo e explore as raízes da humanidade em destinos fascinantes como a China e a Índia. Descubra templos sagrados, palácios ancestrais e tradições que atravessaram séculos. Experimente a culinária exótica, mergulhe em histórias épicas e viva a magia de culturas que moldaram o mundo. A Vem Cá Viagens leva você a essa jornada inesquecível! '
         assetDestination1 = {assetDestination3_1}
         assetDestination2 = {assetDestination3_2}
         alt1 = "Imagem de um caminho largo de pedras, com detalhes à direita e ao fundo uma torre no estilo chinês"
@@ -79,7 +82,8 @@ const Home = () => {
       <Destinos
         styleCor = {stylePurple}
         styleDestino = {destinoInvertido}
-        titulo = 'Quarto Destino'
+        titulo = 'Vamos Conhecer o Mundo Juntos'
+        texto = 'Dos paraísos tropicais às cidades que nunca dormem, das culturas milenares aos destinos mais modernos, o mundo está cheio de lugares incríveis esperando por você. Deixe a Vem Cá Viagens guiar sua próxima aventura. Vamos transformar seus sonhos em memórias inesquecíveis. Pronto para embarcar? '
         assetDestination1 = {assetDestination4_1}
         assetDestination2 = {assetDestination4_2}
         alt1 = "Uma imagem aérea de Machu-Picchu, com o céu nublado"

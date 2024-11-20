@@ -6,15 +6,15 @@ const InfoDescricao = () => {
     <section className='infos'>
       <div className="info-1">
         <h1>Nossa História</h1>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error placeat delectus explicabo quae dolorum ex architecto iusto perferendis. Ex totam possimus natus tempore ipsam temporibus, omnis at cumque vero est. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut reprehenderit modi officiis cum illo laborum odit quidem accusamus corporis veniam.</p>
+        <p>A Vem Cá Viagens nasceu do sonho de conectar pessoas aos lugares mais incríveis do mundo, tornando a experiência de planejar viagens algo tão emocionante quanto viajar. Fundada em recentemente, em 2024, por apaixonados por explorar o mundo, a agência quer se transformar em uma referência no mercado online de turismo. Com foco em inovação e experiência do cliente, a Vem Cá Viagens sempre priorizou tecnologia de ponta e parcerias estratégicas para oferecer destinos inesquecíveis e serviços personalizados.</p>
       </div>
       <div className="info-2">
         <h1>Nossa Missão</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum in minus, magnam dolorum consequatur esse architecto incidunt doloremque ipsum eligendi doloribus dolor deserunt, molestiae omnis optio alias! Praesentium quam assumenda nesciunt necessitatibus enim consectetur mollitia blanditiis dolorem voluptas. Atque repellendus excepturi aliquam, tenetur voluptate hic? Odio minus, molestiae, animi quos labore mollitia cumque velit iure, sint laudantium consectetur eaque incidunt?</p>
+        <p>Inspirar e facilitar a realização de sonhos de viagem, oferecendo experiências únicas que conectem pessoas, culturas e destinos ao redor do mundo, com praticidade, segurança e excelência.</p>
       </div>
       <div className="info-3">
         <h1>Nossa Visão</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At minus corrupti, iure natus voluptatibus architecto nostrum! Labore modi assumenda, laborum ratione facere distinctio corrupti porro earum, pariatur velit maiores reiciendis. Eveniet possimus molestiae facilis nisi perspiciatis hic, commodi excepturi architecto error velit in cum obcaecati esse blanditiis laudantium. Nisi sunt nemo veritatis! Reprehenderit expedita, aliquam explicabo repellat amet alias minima.</p>
+        <p>Ser a principal referência em viagens online na América Latina, reconhecida por oferecer soluções inovadoras, acessíveis e inesquecíveis, promovendo a exploração sustentável e consciente dos destinos do mundo.</p>
       </div>
     </section>
   )
