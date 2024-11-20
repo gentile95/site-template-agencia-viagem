@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/site-template-agencia-viagem/static/css/main.df91a19e.css",
-    "main.js": "/site-template-agencia-viagem/static/js/main.57c6cfb7.js",
+    "main.css": "/site-template-agencia-viagem/static/css/main.c1bd3f3c.css",
+    "main.js": "/site-template-agencia-viagem/static/js/main.232cba01.js",
     "static/js/453.62aacaa2.chunk.js": "/site-template-agencia-viagem/static/js/453.62aacaa2.chunk.js",
     "static/media/videoHero.mp4": "/site-template-agencia-viagem/static/media/videoHero.ad88efbb4b9176336ac2.mp4",
     "static/media/asset-servicos.jpg": "/site-template-agencia-viagem/static/media/asset-servicos.811d856896fb04c8fd37.jpg",
@@ -10,18 +10,21 @@
     "static/media/asset-home-destination3-1.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination3-1.4f4bdc265a98d6e8f615.jpg",
     "static/media/asset-home-destination4-1.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination4-1.a7a321d8463d4c997e6f.jpg",
     "static/media/asset-home-destination4-2.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination4-2.a622396a81bc162e5bfc.jpg",
+    "static/media/asset-servicos-paris.jpg": "/site-template-agencia-viagem/static/media/asset-servicos-paris.7f13bae672654ecddc8c.jpg",
     "static/media/asset-home-destination2-2.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination2-2.4347c46bf05229f65ec3.jpg",
     "static/media/asset-home-destination2-1.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination2-1.0f30eec6eed96223b3f2.jpg",
     "static/media/asset-home-destination1-2.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination1-2.c73b610207d5160296a6.jpg",
+    "static/media/asset-servicos-toquio.jpg": "/site-template-agencia-viagem/static/media/asset-servicos-toquio.798c218d35eaaa50a500.jpg",
     "static/media/asset-home-destination.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination.ea411df684ffa6c92d3e.jpg",
     "static/media/asset-home-destination3-2.jpg": "/site-template-agencia-viagem/static/media/asset-home-destination3-2.3bae338675104b2ca0df.jpg",
+    "static/media/asset-contact.svg": "/site-template-agencia-viagem/static/media/asset-contact.eb650f9f2655f79764587dfd87985d08.svg",
     "index.html": "/site-template-agencia-viagem/index.html",
-    "main.df91a19e.css.map": "/site-template-agencia-viagem/static/css/main.df91a19e.css.map",
-    "main.57c6cfb7.js.map": "/site-template-agencia-viagem/static/js/main.57c6cfb7.js.map",
+    "main.c1bd3f3c.css.map": "/site-template-agencia-viagem/static/css/main.c1bd3f3c.css.map",
+    "main.232cba01.js.map": "/site-template-agencia-viagem/static/js/main.232cba01.js.map",
     "453.62aacaa2.chunk.js.map": "/site-template-agencia-viagem/static/js/453.62aacaa2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df91a19e.css",
-    "static/js/main.57c6cfb7.js"
+    "static/css/main.c1bd3f3c.css",
+    "static/js/main.232cba01.js"
   ]
 }
