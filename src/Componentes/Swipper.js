@@ -13,35 +13,19 @@ const Swipper = () => {
       {id: '4', image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'}
     ];
   
-    const items = fotos.map((foto) => (
-      <div className="container-img-2" key={foto.id}>
-        <div className='fotos'>
-          <img src={foto.image} alt="Colaborador" className='sliderimg'/>
-        </div>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores temporibus magni, ad hic non incidunt tempora porro repudiandae tempore, dolores iusto. Non laudantium aliquam sint et sequi adipisci iusto praesentium</p>
-      </div>
-    ));
-  
     return (
-      <section className="container_big">
-        <div className="container">
-          <AliceCarousel
-            responsive={{
-              0: { items: 1 },  
-              1024: { items: 2 },
-            }}
-            autoPlay={true}
-            infinite={true}
-            animationDuration={1500}
-            autoPlayInterval={2000}
-            mouseTracking
-          >
-            {items}
-          </AliceCarousel>
-        </div>
-      </section>
-    );
-  };
+        <section className="container_big">
+          <div className="grid-container">
+            {fotos.map((foto) => (
+              <div className="grid-item" key={foto.id}>
+                <img src={foto.image} alt="Colaborador" className="grid-image" />
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores temporibus magni.</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      );
+    };
   
   export default Swipper;
 
