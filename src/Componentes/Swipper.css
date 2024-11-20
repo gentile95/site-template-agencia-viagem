@@ -8,8 +8,23 @@
   transform: translateY(-8rem);
 }
 
-.container {
+.container_big {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+    align-items: center;
+}
+
+.container {  
   text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+AliceCarousel {
+    display: flex;
+    position: absolute;
+    left: 10rem;
 }
 
 .container-img-2 {
