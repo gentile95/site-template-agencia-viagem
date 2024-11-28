@@ -1,15 +1,13 @@
-# Site de Viagens Vem Cá Viagens
+# Vacation website "Vem Cá Viagens"
 
-### Em construção
+The project consists about 4 webpages, mimicking a travel agency.
 
-O Projeto consiste em 4 páginas html, imitando uma agência de viagens.
+The pages:
 
-As páginas são:
+Index: Homepage
+Info: Information about the company
+Servico: Information abou the routes
+Contato: Contact form
 
-Index: contém a homepage
-Info: informações sobre a empresa
-Servico: Informações sobre viagens
-Contato: formulário para contato
-
-### Visite o site clicando no link abaixo! 
+### Access the website clicking below!
 https://gentile95.github.io/site-template-agencia-viagem
